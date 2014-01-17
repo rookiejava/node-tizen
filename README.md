@@ -6,3 +6,6 @@ Node-Tizen will provides native binings to the [Tizen] (https://developer.tizen.
 
 
 Supported platforms: **Mac OS X** | **Windows** | **Linux**
+
+
+
